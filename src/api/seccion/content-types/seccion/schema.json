@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "seccions",
+  "info": {
+    "singularName": "seccion",
+    "pluralName": "seccions",
+    "displayName": "Secciones",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tituloSeccion": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}

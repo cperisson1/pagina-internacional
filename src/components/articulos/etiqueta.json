@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_etiquetas_etiquetas",
+  "info": {
+    "displayName": "etiquetas",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "etiqueta": {
+      "type": "string"
+    }
+  }
+}
